@@ -16,8 +16,4 @@ https://lucid.app/lucidchart/545fe244-ba64-48ea-bf0e-7236625be391/edit?viewport_
 
 Wireframe:
 
-https://wireframe.cc/7ozIjl form/home
-
-https://wireframe.cc/cOKpNa onderhoudsmedewerker login
-
-https://wireframe.cc/nODVkR onderhoudsmedewerker scherm
+https://www.figma.com/file/Kp2QHHtkR7gvALXSlKIhhN/Untitled?t=IvhvUlIqdwoDrwmN-0
